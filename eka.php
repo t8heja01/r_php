@@ -10,7 +10,7 @@
       Kirjoitetaan alle php-koodia. <br>
       <?php
       $ename='Teppo';
-      echo 'Tervetuloa' .$ename;
+      echo 'Tervetuloa ' .$ename;
       ?>
     </p>
     <h2>Array</h2>
